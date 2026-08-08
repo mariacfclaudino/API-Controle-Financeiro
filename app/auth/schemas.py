@@ -16,8 +16,3 @@ class UserLogin(BaseModel):
 
     
 
-
-
-
-
-# UserCreate, UserLogin, ShowUser
