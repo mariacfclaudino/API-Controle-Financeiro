@@ -11,8 +11,7 @@ app = FastAPI(
     version="1.0.0",
     contact={
         "name": "Maria Claudino",
-        "url": "https://github.com/mariacfclaudino", 
-        "email": "mariacfclaudino@gmail.com",
+        "url": "https://github.com/mariacfclaudino",
     },
     license_info={
         "name": "MIT",
